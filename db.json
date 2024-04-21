@@ -1,4 +1,34 @@
 {
+  "menuCategory": [
+    {
+      "id": "m1",
+      "title": "FOOD 🥪"
+    },
+    {
+      "id": "m2",
+      "title": "DRINKS ☕"
+    },
+    {
+      "id": "m3",
+      "title": "SETS 😍"
+    },
+    {
+      "id": "m4",
+      "title": "ONLY HERE 🤫"
+    },
+    {
+      "id": "m5",
+      "title": "DESSERTS 🍰"
+    },
+    {
+      "id": "m6",
+      "title": "YUMMY STORE 😋"
+    },
+    {
+      "id": "m1",
+      "title": "FOOD 🥪"
+    }
+],
 "dishes": [
   {
     "id": 1,
