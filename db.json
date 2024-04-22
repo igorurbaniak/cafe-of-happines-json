@@ -80,19 +80,6 @@
   },
   {
     "dishId": 5,
-    "dishName": "Szwedzki stół",
-    "dishPrice": 32,
-    "dishIngredients": "2 grzanki, ser Gouda, ugotowane jajko, łosoś (lub prosciutto}, warzywa, zielenina",
-    "dishCookTime": 14,
-    "dishImage": "images/5.jpg",
-    "isDishVegetarian": true,
-    "isDishRecommended": false,
-    "isDishNew": false,
-    "dishCategory": "breakfast",
-    "dishCategoriesId": "m1"
-  },
-  {
-    "dishId": 6,
     "dishName": "Owsianka na słono",
     "dishPrice": 27,
     "dishIngredients": "Słona owsianka z serem parmezanem, ugotowanym jajkiem, awokado i pomdishIdorkami.",
@@ -105,7 +92,7 @@
     "dishCategoriesId": "m1"
   },
   {
-    "dishId": 7,
+    "dishId": 6,
     "dishName": "Małe cudowności",
     "dishPrice": 32,
     "dishIngredients": "Słowiańskie ravioli (pelmeni) z trzech rodzajów mięsa: kurczak, wołowina, wieprzowina. ",
@@ -118,7 +105,7 @@
     "dishCategoriesId": "m1"
   },
   {
-    "dishId": 8,
+    "dishId": 7,
     "dishName": "Powrót do dzieciństwa",
     "dishPrice": 30,
     "dishIngredients": "Słowiańskie kolorowe ravioli (pelmeni) z kurczakiem i naturalnymi barwnikami (burak, szpinak, marchewka",
@@ -131,7 +118,7 @@
     "dishCategoriesId": "m1"
   },
   {
-    "dishId": 9,
+    "dishId": 8,
     "dishName": "Zdrowy vibe",
     "dishPrice": 38,
     "dishIngredients": "bajgiel, guacamole, łosoś,jajko po benedyktyńsku, warzywa, zielenina",
@@ -144,7 +131,7 @@
     "dishCategoriesId": "m3"
   },
   {
-    "dishId": 10,
+    "dishId": 9,
     "dishName": "Pyszne chwile (kurczak)",
     "dishPrice": 28,
     "dishIngredients": "(2 szt) Naleśniki z kurczakiem i pieczarkami",
@@ -157,7 +144,7 @@
     "dishCategoriesId": "m3"
   },
   {
-    "dishId": 11,
+    "dishId": 10,
     "dishName": "Słodki uśmiech",
     "dishPrice": 18,
     "dishIngredients": "croissant, dżem, ser śmietankowo-kremowy",
@@ -170,7 +157,7 @@
     "dishCategoriesId": "m3"
   },
   {
-    "dishId": 12,
+    "dishId": 11,
     "dishName": "Francuski pocałunek",
     "dishPrice": 29,
     "dishIngredients": "chałka własnej roboty, cynamon, mieszanka malinowo-cukrowa, jogurt i miód",
@@ -183,7 +170,7 @@
     "dishCategoriesId": "m4"
   },
   {
-    "dishId": 13,
+    "dishId": 12,
     "dishName": "Miłość od pierwszego kęsa",
     "dishPrice": 40,
     "dishIngredients": "serniczki twarogowe, sos jagodowo-jogurtowy, cukier puder",
@@ -196,7 +183,7 @@
     "dishCategoriesId": "m4"
   },
   {
-    "dishId": 14,
+    "dishId": 13,
     "dishName": "Owocowe szczęście",
     "dishPrice": 26,
     "dishIngredients": "serniczki twarogowe, sos jagodowo-jogurtowy, cukier puder",
@@ -209,7 +196,7 @@
     "dishCategoriesId": "m4"
   },
   {
-    "dishId": 15,
+    "dishId": 14,
     "dishName": "Lody dla ochłody",
     "dishPrice": 14,
     "dishIngredients": "lody ala straciatella w owocowym puree na malinach i borówkach",
@@ -222,7 +209,7 @@
     "dishCategoriesId": "m4"
   },
   {
-    "dishId": 16,
+    "dishId": 15,
     "dishName": "Truskawki",
     "dishPrice": 12,
     "dishIngredients": "swieżo zerwane truskawki z własnej pielegnacji",
@@ -235,7 +222,7 @@
     "dishCategoriesId": "m5"
   },
   {
-    "dishId": 17,
+    "dishId": 16,
     "dishName": "Pyszne chwile (szpinak)",
     "dishPrice": 22,
     "dishIngredients": "(2 szt) Naleśniki ze szpinakiem i serem philadelphia ",
@@ -248,7 +235,7 @@
     "dishCategoriesId": "m5"
   },
   {
-    "dishId": 18,
+    "dishId": 17,
     "dishName": "Pyszne chwile (bryndza)",
     "dishPrice": 31,
     "dishIngredients": "(2 szt) Naleśniki z bryndzy. Smak bryndzy jest intensywny, słony, wyrazisty i często lekko kwaśny. ",
@@ -261,7 +248,7 @@
     "dishCategoriesId": "m5"
   },
   {
-    "dishId": 19,
+    "dishId": 18,
     "dishName": "Sałatka z łososiem",
     "dishPrice": 22,
     "dishIngredients": "Sałatka z rukolą, łososiem, pomdishIdorki, ocet balsamiczny, nasiona, chlebek",
@@ -274,7 +261,7 @@
     "dishCategoriesId": "m5"
   },
   {
-    "dishId": 20,
+    "dishId": 19,
     "dishName": "Sałatka z kurczakiem",
     "dishPrice": 35,
     "dishIngredients": "Mix sałatek, kurczak, parmezan, warzywa",
@@ -287,7 +274,7 @@
     "dishCategoriesId": "m6"
   },
   {
-    "dishId": 21,
+    "dishId": 20,
     "dishName": "Zupa dnia",
     "dishPrice": 16,
     "dishIngredients": "Codziennie inna zupa, proszę pytać przy barze",
@@ -300,7 +287,7 @@
     "dishCategoriesId": "m6"
   },
   {
-    "dishId": 22,
+    "dishId": 21,
     "dishName": "Cappuccino",
     "dishPrice": 17,
     "dishIngredients": "swiezo palona kawaka z serca mleczkiem",
@@ -313,7 +300,7 @@
     "dishCategoriesId": "m2"
   },
   {
-    "dishId": 23,
+    "dishId": 22,
     "dishName": "Latte",
     "dishPrice": 15,
     "dishIngredients": "kawa barzylijka ziarnista z mleczna pianką",
@@ -326,7 +313,7 @@
     "dishCategoriesId": "m2"
   },
   {
-    "dishId": 24,
+    "dishId": 23,
     "dishName": "Americano",
     "dishPrice": 12,
     "dishIngredients": "70ml kawy z dodatkiem miodu",
@@ -339,7 +326,7 @@
     "dishCategoriesId": "m2"
   },
    {
-    "dishId": 25,
+    "dishId": 24,
     "dishName": "Herbata zielona",
     "dishPrice": 8,
     "dishIngredients": "zielona herbata cytronowo-miętowa",
@@ -352,7 +339,7 @@
     "dishCategoriesId": "m2"
   },
   {
-    "dishId": 26,
+    "dishId": 25,
     "dishName": "Mleko",
     "dishPrice": 10,
     "dishIngredients": "swieze mleczko (mozna podgrzac)",
