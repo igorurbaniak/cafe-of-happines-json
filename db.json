@@ -37,7 +37,7 @@
     "isRecommended": true,
     "isNew": false,
     "dishCategory": "breakfast",
-    "categories": ["m1"]
+    "categories": "m1"
   },
   {
     "id": 2,
@@ -50,7 +50,7 @@
     "isRecommended": true,
     "isNew": false,
     "dishCategory": "breakfast",
-    "categories": ["m1"]
+    "categories": "m1"
   },
   {
     "id": 3,
@@ -63,7 +63,7 @@
     "isRecommended": true,
     "isNew": true,
     "dishCategory": "breakfast",
-    "categories": ["m1"]
+    "categories": "m1"
   },
   {
     "id": 4,
@@ -76,7 +76,7 @@
     "isRecommended": true,
     "isNew": true,
     "dishCategory": "breakfast",
-    "categories": ["m1"]
+    "categories": "m1"
   },
   {
     "id": 5,
@@ -89,7 +89,7 @@
     "isRecommended": false,
     "isNew": false,
     "dishCategory": "breakfast",
-    "categories": ["m1"]
+    "categories": "m1"
   },
   {
     "id": 6,
@@ -102,7 +102,7 @@
     "isRecommended": true,
     "isNew": false,
     "dishCategory": "breakfast",
-    "categories": ["m1"]
+    "categories": "m1"
   },
   {
     "id": 7,
@@ -115,7 +115,7 @@
     "isRecommended": false,
     "isNew": true,
     "dishCategory": "lunch",
-    "categories": ["m1"]
+    "categories": "m1"
   },
   {
     "id": 8,
@@ -128,7 +128,7 @@
     "isRecommended": true,
     "isNew": false,
     "dishCategory": "lunch",
-    "categories": ["m1"]
+    "categories": "m1"
   },
   {
     "id": 9,
@@ -141,7 +141,7 @@
     "isRecommended": true,
     "isNew": false,
     "dishCategory": "lunch",
-    "categories": ["m3"]
+    "categories": "m3"
   },
   {
     "id": 10,
@@ -154,7 +154,7 @@
     "isRecommended": false,
     "isNew": false,
     "dishCategory": "lunch",
-    "categories": ["m3"]
+    "categories": "m3"
   },
   {
     "id": 11,
@@ -167,7 +167,7 @@
     "isRecommended": true,
     "isNew": true,
     "dishCategory": "sweet",
-    "categories": ["m3"]
+    "categories": "m3"
   },
   {
     "id": 12,
@@ -180,7 +180,7 @@
     "isRecommended": true,
     "isNew": false,
     "dishCategory": "sweet",
-    "categories": ["m4"]
+    "categories": "m4"
   },
   {
     "id": 13,
@@ -193,7 +193,7 @@
     "isRecommended": true,
     "isNew": false,
     "dishCategory": "sweet",
-    "categories": ["m4"]
+    "categories": "m4"
   },
   {
     "id": 14,
@@ -206,7 +206,7 @@
     "isRecommended": true,
     "isNew": false,
     "dishCategory": "sweet",
-    "categories": ["m4"]
+    "categories": "m4"
   },
   {
     "id": 15,
@@ -219,7 +219,7 @@
     "isRecommended": true,
     "isNew": false,
     "dishCategory": "sweet",
-    "categories": ["m4"]
+    "categories": "m4"
   },
   {
     "id": 16,
@@ -232,7 +232,7 @@
     "isRecommended": false,
     "isNew": false,
     "dishCategory": "sweet",
-    "categories": ["m5"]
+    "categories": "m5"
   },
   {
     "id": 17,
@@ -245,7 +245,7 @@
     "isRecommended": false,
     "isNew": false,
     "dishCategory": "lunch",
-    "categories": ["m5"]
+    "categories": "m5"
   },
   {
     "id": 18,
@@ -258,7 +258,7 @@
     "isRecommended": true,
     "isNew": false,
     "dishCategory": "lunch",
-    "categories": ["m5"]
+    "categories": "m5"
   },
   {
     "id": 19,
@@ -271,7 +271,7 @@
     "isRecommended": true,
     "isNew": false,
     "dishCategory": "lunch",
-    "categories": ["m5"]
+    "categories": "m5"
   },
   {
     "id": 20,
@@ -284,7 +284,7 @@
     "isRecommended": false,
     "isNew": false,
     "dishCategory": "lunch",
-    "categories": ["m6"]
+    "categories": "m6"
   },
   {
     "id": 21,
@@ -297,7 +297,7 @@
     "isRecommended": true,
     "isNew": false,
     "dishCategory": "lunch",
-    "categories": ["m6"]
+    "categories": "m6"
   },
   {
     "id": 22,
@@ -310,7 +310,7 @@
     "isRecommended": true,
     "isNew": false,
     "dishCategory": "coffee",
-    "categories": ["m2"]
+    "categories": "m2"
   },
   {
     "id": 23,
@@ -323,7 +323,7 @@
     "isRecommended": true,
     "isNew": false,
     "dishCategory": "coffee",
-    "categories": ["m2"]
+    "categories": "m2"
   },
   {
     "id": 24,
@@ -336,7 +336,7 @@
     "isRecommended": true,
     "isNew": false,
     "dishCategory": "coffee",
-    "categories": ["m2"]
+    "categories": "m2"
   },
    {
     "id": 25,
@@ -349,7 +349,7 @@
     "isRecommended": true,
     "isNew": false,
     "dishCategory": "tea",
-    "categories": ["m2"]
+    "categories": "m2"
   },
   {
     "id": 26,
@@ -362,7 +362,7 @@
     "isRecommended": false,
     "isNew": true,
     "dishCategory": "other",
-    "categories": ["m2"]
+    "categories": "m2"
   }
 ]
 }
